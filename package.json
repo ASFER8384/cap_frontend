@@ -1,6 +1,6 @@
 {
   "name": "my-app",
-  "proxy": "https://capstone-a8ce.onrender.com",
+  "proxy": "https://weary-gear-duck.cyclic.app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
